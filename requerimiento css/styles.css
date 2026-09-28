@@ -1,0 +1,16 @@
+/* Aplicando el color de fondo de la página definido en la guía de estilo (#F2E8D5) */
+body {
+    background-color: #F2E8D5;
+}
+
+/* Personalizando el botón de acción principal con el color de la marca (#D96281) */
+.btn-custom-primary {
+    background-color: #D96281;
+    color: #ffffff;
+    border: none;
+}
+
+.btn-custom-primary:hover {
+    background-color: #c2526f;
+    color: #ffffff;
+}
